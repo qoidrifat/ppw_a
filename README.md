@@ -1,1 +1,3 @@
-# ppw_a
+# Class Pencarian & Penambangan Web
+#### Name   : Qoid Rif'at
+#### NIM    : 210411100160
